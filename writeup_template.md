@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 [image6]: ./output_images/curved-image.jpg "Fit Lanes"
 [image7]: ./output_images/radius-curvature-image.jpg "Radius Of Curvature"
 [image8]: ./output_images/final-output-image.jpg "Ouput Image"
-[video1]: ./project_video.mp4 "Video"
+[video1]: ./test_videos_output/project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
@@ -131,7 +131,7 @@ I implemented this in `seventh section` in my code in Ipython notebook in the fu
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./test_videos_output/project_video.mp4)
 
 ---
 
